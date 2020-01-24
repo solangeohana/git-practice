@@ -1,3 +1,9 @@
 Name: Solange   
 Age: 25
 Favorite Color: Pink
+git remote add origin https://github.com/solangeohana/git-practice.git
+git push -u origin master
+
+lalalala Solange is the best 
+and goldy too
+lalalala
