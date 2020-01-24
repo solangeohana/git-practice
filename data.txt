@@ -7,3 +7,5 @@ git push -u origin master
 lalalala Solange is the best 
 and goldy too
 lalalala
+
+I'm so smart it's unbelievable 
